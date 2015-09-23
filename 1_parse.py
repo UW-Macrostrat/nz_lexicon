@@ -136,6 +136,7 @@ for x in xrange(1, end):
         if found:
             good_data.append(row_data)
 
+    # This will store the resultant data for the current name being parsed
     current_name = new_name()
 
     # Need to parse out ranks!

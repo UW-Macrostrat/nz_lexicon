@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import re
 import json
 import sys
+import os
 import MySQLdb
 import MySQLdb.cursors
 from credentials import *

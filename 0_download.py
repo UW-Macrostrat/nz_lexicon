@@ -11,7 +11,7 @@ if len(files):
 else :
     start = 1
 
-for x in xrange(start, 8000):
+for x in xrange(start, 7400):
 
   # Be kind, don't thrash
   time.sleep(10)
